@@ -70,3 +70,6 @@ Open your browser and navigate to:
 ![image alt](https://github.com/vidhyaashankar/BusTicketPro-Bus-Ticket-Booking---Frontend-/blob/73985ef440daf76bb5d81e916e03108ab2245ae8/Cancel%20ticket%20page.png)
 
 
+![image alt](https://github.com/vidhyaashankar/BusTicketPro-Bus-Ticket-Booking---Frontend-/blob/5d536cdae74f135c1daccd3b98acd12f8b44bdb4/Manage%20tickets%20page.png)
+
+
