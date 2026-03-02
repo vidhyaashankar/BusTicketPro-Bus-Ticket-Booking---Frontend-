@@ -45,3 +45,15 @@ Open your browser and navigate to:
 - **Frontend**: React, Tailwind CSS, Lucide React, Motion.
 - **Backend**: Node.js, Express, Better-SQLite3.
 - **Database**: SQLite (Local file: `bus_tickets.db`).
+
+
+
+
+
+**OUTPUT:**
+
+![image alt](https://github.com/vidhyaashankar/BusTicketPro-Bus-Ticket-Booking---Frontend-/blob/3a0c713b0f96c4dd0a0c75faf205c75bb9db98c6/Login%20page.png)
+
+
+
+
