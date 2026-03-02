@@ -55,15 +55,12 @@ Open your browser and navigate to:
 ![image alt](https://github.com/vidhyaashankar/BusTicketPro-Bus-Ticket-Booking---Frontend-/blob/3a0c713b0f96c4dd0a0c75faf205c75bb9db98c6/Login%20page.png)
 
 
-
-
 ![image alt](https://github.com/vidhyaashankar/BusTicketPro-Bus-Ticket-Booking---Frontend-/blob/3030547289f0b3ecfbcf55f4c14503185fe7d9f3/Register%20page.png)
-
-
 
 
 ![image alt](https://github.com/vidhyaashankar/BusTicketPro-Bus-Ticket-Booking---Frontend-/blob/dd9e463b78bc3b046ae5b2be00c640b43865134e/Book%20Ticket%20page.png)
 
 
+![image alt](https://github.com/vidhyaashankar/BusTicketPro-Bus-Ticket-Booking---Frontend-/blob/60fc87d3c60469d969af398c64528b24ee59b3cc/Dashboard%20page.png)
 
 
