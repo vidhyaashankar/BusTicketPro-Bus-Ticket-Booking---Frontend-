@@ -50,7 +50,7 @@ Open your browser and navigate to:
 
 
 
-**OUTPUT:**
+## Output
 
 ![image alt](https://github.com/vidhyaashankar/BusTicketPro-Bus-Ticket-Booking---Frontend-/blob/3a0c713b0f96c4dd0a0c75faf205c75bb9db98c6/Login%20page.png)
 
